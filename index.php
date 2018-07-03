@@ -23,9 +23,9 @@
 require_once('twitteroauth/OAuth.php');
 require_once('twitteroauth/twitteroauth.php');
 // define the consumer key and secet and callback
-define('CONSUMER_KEY', 'YOUR_CONSUMER_KEY');
-define('CONSUMER_SECRET', 'YOUR_CONSUMER_SECRET');
-define('OAUTH_CALLBACK', 'YOUR_CONSUMER_CALLBACK_URL');
+define('CONSUMER_KEY', 'HIcVkG9lMHVgpF3CdaS81pQpn');
+define('CONSUMER_SECRET', '8waxqcrkhifIAtm2YgSMDXPqckMsNqKOBxIoZ6v5mGbaN7Zt6W');
+define('OAUTH_CALLBACK', 'https://dealing.in.th/login/twitter');
 // start the session
 session_start();
 
